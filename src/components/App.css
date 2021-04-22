@@ -1,0 +1,11 @@
+/* Styles go here */
+table td, th {
+    vertical-align: middle !important;
+}
+.purchase {
+    margin-right: 5px;    
+}
+.delete, .delete:hover, .delete:active {
+    background-color: red !important;
+    border-color: red !important;
+}
