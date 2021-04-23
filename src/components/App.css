@@ -1,4 +1,7 @@
 /* Styles go here */
+body {
+    background-color: #ddd;
+}
 table td, th {
     vertical-align: middle !important;
 }
@@ -8,4 +11,15 @@ table td, th {
 .delete, .delete:hover, .delete:active {
     background-color: red !important;
     border-color: red !important;
+}
+h1, h2, h3, h4, h5 {
+    font-weight: 900;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 31px;
 }
